@@ -332,7 +332,7 @@ pkg-config --modversion x11
 1. Clone and build:
 
 ```bash
-git clone https://github.com/inbasperu/patience.git
+git clone https://github.com/inbasperu/patience-game.git
 cd patience-game
 mkdir build && cd build
 cmake ..
